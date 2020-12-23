@@ -2,7 +2,7 @@
 
 ## Work7
 
-Ubuntu bash script to move .txt files to first found subfolder... If you find this useful, feel free to download
+Ubuntu bash script to download txt file and show last 11 lines... If you find this useful, feel free to download
 
 ## Installation
 
