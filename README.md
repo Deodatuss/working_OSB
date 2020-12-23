@@ -1,6 +1,6 @@
 *this reposit was made at 'bout 5 a.m. and wasn't refreshed from that time, so it may have some spelling  errors, fatal bugs etc. Proceed with caution*
 
-## Work7
+## Seven
 
 Ubuntu bash script to download txt file and show last 11 lines... If you find this useful, feel free to download
 
